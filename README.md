@@ -1,6 +1,6 @@
 # Report Github Health Check Status
 
-Lorem ipsum
+Updates the Github health status for a given pull request
 
 
 ## How to use this Step
